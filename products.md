@@ -1,6 +1,6 @@
 ---
-title: Products
-subtitle: Check out our range of products
+title: Projects
+subtitle: A collection of all my projects
 layout: product-category
 show_sidebar: false
 sort: price
