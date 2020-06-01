@@ -19,6 +19,8 @@
 #       link: /landing/
 #     - name: Sponsors Page
 #       link: /sponsors/
+- name: About me
+  link: /aboutme/
 - name: Blog
   link: /blog/
 - name: Projects
