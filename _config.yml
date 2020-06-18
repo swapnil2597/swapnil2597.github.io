@@ -1,4 +1,4 @@
-title: devlopr
+title: Swapnil Khare
 subtitle: A Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
@@ -25,12 +25,12 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "johndoe@gmail.com"
+author: Swapnil Khare
+author_bio: Hi, my name is Swapnil Khare. Welcome to my web profile.
+author_email: "swapnil.khare25@gmail.com"
 author_location: India
-author_website_url: "http://johndoe.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author_website_url: "swapnil2597.github.io"
+typewrite-text: I'm a full stack Web, app and software developer.
 
 author_work_experiences:
             - company_name: Google
@@ -68,11 +68,11 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
+github_username:  swapnil2597
+facebook_username: swapnil.khare25
 linkedin_username: johndoe
 behance_username: johndoe
-instagram_username: johndoe
+instagram_username: swapnil2597
 medium_username: johndoe
 telegram_username: johndoe
 dribbble_username: johndoe
