@@ -1,7 +1,8 @@
 title: Swapnil Khare
-subtitle: A Jekyll Theme Built for Developers
+subtitle: Full Stack Software Developer.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  This is a web profile to shocase my projects and personal interests to the world.
+  MSc. Mathematics + BE Manufacturing from BITS PILANI.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,8 +20,6 @@ urls:
       url : /contact
     - text: Styleguide
       url: /styleguide
-    - text: Get Started
-      url: /get-started
 
 # Edit these details
 
@@ -38,20 +37,20 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: BITS PILANI
                 college_url: https://mit.org
                 college_degree: CS Engineer
-                description: Bachelor of Technology
+                description: Bachelor of Engineering
                 visibility: true
 
 author_project_details:
@@ -84,10 +83,10 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username:
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+mailchimp_form_url:
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com
