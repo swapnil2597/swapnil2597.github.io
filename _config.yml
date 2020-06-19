@@ -1,8 +1,8 @@
 title: Swapnil Khare
 subtitle: Full Stack Software Developer.
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a web profile to shocase my projects and personal interests to the world.
-  MSc. Mathematics + BE Manufacturing from BITS PILANI.
+  Hi, I am Swapnil Khare. This is a web profile to shocase my projects and personal interests to the world.
+  I'm currently in my final year while pursuing MSc. Mathematics + BE Manufacturing at BITS PILANI.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,8 +18,6 @@ urls:
       url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
 
 # Edit these details
 
@@ -29,7 +27,7 @@ author_bio: Hi, my name is Swapnil Khare. Welcome to my web profile.
 author_email: "swapnil.khare25@gmail.com"
 author_location: India
 author_website_url: "swapnil2597.github.io"
-typewrite-text: I'm a full stack Web, app and software developer.
+typewrite-text: I'm a full stack Software, App and Web developer.
 
 author_work_experiences:
             - company_name: Google
@@ -46,11 +44,17 @@ author_work_experiences:
               visibility: false
 
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: bits.jpeg
                 college_name: BITS PILANI
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Engineering
+                college_url: https://www.bits-pilani.ac.in/
+                college_degree: MSc. Mathematics
+                description: An honours degree on Master of Science in Mathematics.
+                visibility: true
+              - college_logo: bits.jpeg
+                college_name: BITS PILANI
+                college_url: https://www.bits-pilani.ac.in/
+                college_degree: B.E. Manufacturing
+                description: An honours degree on Bachelor of Engineering in Manufacturing Engineering.
                 visibility: true
 
 author_project_details:
@@ -58,24 +62,24 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
-twitter_username: johndoe
+twitter_username:
 github_username:  swapnil2597
 facebook_username: swapnil.khare25
-linkedin_username: johndoe
-behance_username: johndoe
+linkedin_username:
+behance_username:
 instagram_username: swapnil2597
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+medium_username:
+telegram_username:
+dribbble_username:
+flickr_username:
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -89,7 +93,7 @@ wakatime_username:
 mailchimp_form_url:
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: 
 
 # syntax highlighter
 markdown: kramdown
