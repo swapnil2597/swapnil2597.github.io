@@ -14,8 +14,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Shop
+    #   url : /shop
     - text: Contact Me
       url : /contact
 
@@ -93,7 +93,7 @@ wakatime_username:
 mailchimp_form_url:
 
 # formspree (contact form)
-formspree_email: 
+formspree_email:
 
 # syntax highlighter
 markdown: kramdown
