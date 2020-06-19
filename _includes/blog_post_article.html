@@ -27,13 +27,19 @@
   </div>
 
   <div class="card-body" itemprop="articleBody">
+    {% unless page.hide_thumbnail %}
     <img
       class="card-img-top"
       src="{{site.url}}{{site.baseurl}}{{ page.thumbnail }}"
       alt="{{ post.title }}"
     />
+    {% endunless %}
+
     <br />
     <br />
+    {%- if page.youtube_link -%}
+    {%- include youtube-iframe.html -%}
+    {%- endif -%}
     {{ content }}
     <br />
     {%- include share_page.html -%}

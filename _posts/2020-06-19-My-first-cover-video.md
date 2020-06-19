@@ -4,15 +4,13 @@ layout: post
 author: Swapnil Khare
 summary: If I go I'm Going - My cover
 date: '2020-06-19 14:35:23 +0530'
+category: youtube
+thumbnail: "/assets/img/scene1.jpg"
+youtube_link: "https://www.youtube.com/embed/3fIdlaKk3IM"
+hide_thumbnail: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<hr />
-
-<iframe  width="400px" height="210px" src="https://www.youtube.com/embed/3fIdlaKk3IM" frameborder="5px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr />
 
 Morbi tincidunt ornare massa eget egestas purus. Nullam ac tortor vitae purus faucibus ornare. Faucibus turpis in eu mi bibendum neque. At lectus urna duis convallis. Mi tempus imperdiet nulla malesuada pellentesque elit eget. Massa massa ultricies mi quis hendrerit dolor magna eget est. Velit dignissim sodales ut eu sem integer vitae. Viverra adipiscing at in tellus integer feugiat scelerisque. Elit ut aliquam purus sit amet. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Id neque aliquam vestibulum morbi blandit cursus. Turpis egestas integer eget aliquet nibh praesent tristique.
 
