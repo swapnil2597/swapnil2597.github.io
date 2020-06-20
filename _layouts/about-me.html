@@ -170,10 +170,12 @@ layout: default
       == true %}
       <div class="row">
         <div class="col-md-2">
-          <img
-            src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
-            class="company-logo ml-3 mt-1"
-          />
+          <div class="mt-1 ml-3">
+            <img
+              src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
+              class="company-logo img img-responsive"
+            />
+          </div>
         </div>
         <div class="col-md-6 ml-3 mt-3 mt-md-0">
           <h4 class="experience-title">{{detail.college_degree }}</h4>
